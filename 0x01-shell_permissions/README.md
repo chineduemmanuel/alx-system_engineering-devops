@@ -1,1 +1,1 @@
-5-execute gives permission
+Grant multiple permissions
