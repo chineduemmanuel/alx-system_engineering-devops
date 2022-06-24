@@ -1,1 +1,1 @@
-1-who_am_i prints username
+2-groups print user groups
