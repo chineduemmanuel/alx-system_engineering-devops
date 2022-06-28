@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen group \n
+cat /etc/group \n
