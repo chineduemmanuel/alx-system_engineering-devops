@@ -1,2 +1,2 @@
 #!/bin/bash
-echo betty\n
+echo $(chown betty hello)
